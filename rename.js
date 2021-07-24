@@ -1,3 +1,4 @@
+// currebtly set to remove apostrophes from filenames
 const fs = require("fs")
 
 fs.readdir(__dirname, (err, files) => {
