@@ -1,3 +1,5 @@
+// not fully working...
+
 const numberToConvert = parseInt(process.argv[2]) 
 
 const getCharFromNumber = (number) => {
